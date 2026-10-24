@@ -1,0 +1,24 @@
+(Transcribed by TurboScribe. Go Unlimited to remove this message.)
+
+(0:00 - 0:19)
+Hello everyone, my name is Paransh Nisar, PRN 127-225-0941. And today I am going to think aloud while using the Indian Express. I am opening the homepage and my first impression is that there is a lot happening on the screen.
+
+(0:19 - 0:36)
+There are bright advertisements on the top and on the sides, they pull my eyes away from the actual news. I want to read opinion articles, so I am looking at the top menu. I can see opinion, but there are 13 options in total, so I need a moment to find it.
+
+(0:36 - 1:27)
+And okay, I'm clicking on it now. I'm scrolling through that and the headlines in many sections are small and tightly packed together. After a few minutes, I can feel my eyes getting tired of strain and especially because I cannot see a clear way to make the text larger and I wear glasses or spectacles. 
+
+I do like that the website looks like a real newspaper with strong headlines and clear section names. The crown icon also tells me which stories are paid and which aren't, so I know what to expect. Overall, the content is trustable and the crowded layout and the heavy advertising makes long reading very uncomfortable.
+
+(1:29 - 2:47)
+So now I'm opening the Figma Daily Brief prototype by Aditya and the homepage, the first thing I notice is the white space. The page feels organized, the headlines are easy to read. I want to read opinion pieces again, so I'm looking at the top menu. 
+
+There are only eight items which are lesser than the previous one and opinion is clearly there. I am clicking on it now and the breadcrumb at the top shows me exactly where I am. Now I'm opening an article that the text sits in a single comfortable column, the letters are in a good comfortable readable size and I also see buttons to increase the text size, switch to a darker mode to read at night which would really help my eyes and I notice the author name, the updated time at the top, the advertisement is clearly labeled. 
+
+These small details make this a very easy read. I also like the listen button because I can rest my eyes and hear the story instead. It's also good for blind people, this option is very helpful.
+
+(2:48 - 2:55)
+Overall this prototype feels calm, readable and trustworthy and is much better to read for a longer time. Thank you.
+
+(Transcribed by TurboScribe. Go Unlimited to remove this message.)
